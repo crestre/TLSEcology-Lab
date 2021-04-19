@@ -1,6 +1,6 @@
 # TLSEcology-Lab
 
-This repository includes information on ongoing projects at the Tropical Large-scale Ecology Lab @ the University of Puerto Rico Rio Piedras campus.
+This repository includes information of ongoing projects at the [Tropical Large-scale Ecology Lab @ the University of Puerto Rico Rio Piedras campus](https://github.com/crestre/TLSEcology-Lab).
 
 Treerings and ecosystem services - includes work by graduate student Carlos Cifuentes and undergraduate students Alondra Perez-Norat
 
